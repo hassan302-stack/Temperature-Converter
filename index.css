@@ -1,0 +1,24 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(98, 84, 110);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;     
+}
+
+.box{
+  display: flex;
+    border: 2px solid rgb(39, 26, 10);
+    width: 450px;
+    height: 200px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;  
+    background: tomato;
+    border-radius: 21%;
+  }
+  
